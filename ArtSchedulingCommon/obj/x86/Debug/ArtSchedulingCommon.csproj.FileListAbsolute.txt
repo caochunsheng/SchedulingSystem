@@ -1,0 +1,7 @@
+E:\SourceCode\SchedulingSystem\ArtSchedulingCommon\bin\x86\Debug\ArtSchedulingCommon.dll
+E:\SourceCode\SchedulingSystem\ArtSchedulingCommon\bin\x86\Debug\ArtSchedulingCommon.pdb
+E:\SourceCode\SchedulingSystem\ArtSchedulingCommon\bin\x86\Debug\ArtSchedulingModel.dll
+E:\SourceCode\SchedulingSystem\ArtSchedulingCommon\bin\x86\Debug\ArtSchedulingModel.pdb
+E:\SourceCode\SchedulingSystem\ArtSchedulingCommon\obj\x86\Debug\ArtSchedulingCommon.csprojResolveAssemblyReference.cache
+E:\SourceCode\SchedulingSystem\ArtSchedulingCommon\obj\x86\Debug\ArtSchedulingCommon.dll
+E:\SourceCode\SchedulingSystem\ArtSchedulingCommon\obj\x86\Debug\ArtSchedulingCommon.pdb
