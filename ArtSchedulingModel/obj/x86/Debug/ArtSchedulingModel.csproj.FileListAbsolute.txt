@@ -1,4 +1,0 @@
-E:\SourceCode\SchedulingSystem\ArtSchedulingModel\bin\x86\Debug\ArtSchedulingModel.dll
-E:\SourceCode\SchedulingSystem\ArtSchedulingModel\bin\x86\Debug\ArtSchedulingModel.pdb
-E:\SourceCode\SchedulingSystem\ArtSchedulingModel\obj\x86\Debug\ArtSchedulingModel.dll
-E:\SourceCode\SchedulingSystem\ArtSchedulingModel\obj\x86\Debug\ArtSchedulingModel.pdb
